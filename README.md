@@ -41,6 +41,3 @@ Each dataset includes variables such as country, date, tests conducted, positive
 - Visualization highlights gaps in global immunization and testing infrastructure  
 
 
-## 📬 Contact
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/payalvaidya) or explore more projects on my GitHub profile!
